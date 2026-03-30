@@ -6,7 +6,7 @@
     <strong>I firmly believe: solutions always outnumber problems.</strong>
   </p>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=font=Cascadia+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Wenmudong wish you happiness every single day!&center=true&size=27)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=font=Cascadia+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Wenmudong&center=true&size=27)](https://git.io/typing-svg)
   
   <p>
     <code>🌱 Born 2001-09-15</code>
