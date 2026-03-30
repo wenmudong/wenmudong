@@ -6,7 +6,7 @@
     <strong>I am open to internship opportunities in any interesting direction.</strong>
   </p>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Wenmudong-祝您天天开心!&center=true&size=27)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=font=Cubic+11&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Wenmudong-祝您天天开心!&center=true&size=27)](https://git.io/typing-svg)
   
   <p>
     <code>🌱 Born 2001-09-15</code>
