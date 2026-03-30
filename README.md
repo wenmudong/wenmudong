@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=wenmudong" /> </div>
+  
 
 <!---
 wenmudong/wenmudong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
